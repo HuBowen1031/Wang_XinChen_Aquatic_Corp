@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">王鑫晨水产公司</string>
+    <string name="Name">王鑫晨</string>
+    <string name="AKA">又名：董卓</string>
+    <string name="Description_1">大家好，我是王鑫晨。我是一个爱打篮球的中分男孩。</string>
+    <string name="Description_2">我因为喜欢养鱼的天性而被称为董卓。</string>
+    <string name="Description_AquaticCorp">我目前有一个庞大的公司：王鑫晨水产公司。这个公司不仅养鱼，还生产轮胎（备胎）和船舶（“脚踏n条船，翻也翻不完”）</string>
+    <string name="this_program_is_non_interactive_and_only_have_one_page_due_to_my_ability_as_a_starter_and_tight_schedule_please_enjoy">声明：这个程序只有界面，不能响应点击。这是由于作者水平有限，和周末时间紧张。请欣赏支持这个程序，谢谢。</string>
+</resources>

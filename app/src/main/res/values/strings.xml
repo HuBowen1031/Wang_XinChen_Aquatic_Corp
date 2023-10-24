@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Wang XinChen Aquatic Corp</string>
+    <string name="Name">Wang Xinchen</string>
+    <string name="AKA">aka Dong Zhuo</string>
+    <string name="Description_1">Hello,I am Wang Xinchen.I am an active boy who has the mid-split hair and can play basketball very well.</string>
+    <string name="Description_2">I am referred as Dong Zhuo because of my nature:fond of keeping fish.</string>
+    <string name="Description_AquaticCorp">I currently have a large corporation called the Wang Aquatic Corp,It not only keeps fish,but also assembles wheels and ships. </string>
+    <string name="this_program_is_non_interactive_and_only_have_one_page_due_to_my_ability_as_a_starter_and_tight_schedule_please_enjoy">Statement:This program is non-interactive and only have one page due to my ability as a starter and tight schedule.Please enjoy.</string>
+</resources>
